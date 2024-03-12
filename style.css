@@ -1,0 +1,48 @@
+body
+{
+  background-image: url("https://i.pinimg.com/736x/ec/00/4a/ec004a0fff10aec488ebec787137f7d0.jpg");
+  background-size: cover;
+  text-align: center;
+}
+h1 
+{
+  color: rgb(8, 204, 218);
+  border-style: solid;
+  border-color:rgb(255, 255, 255);  
+  border-width:2px;
+  padding: 10px;
+}
+#nome
+{
+  font-size:40px;
+  color: rgb(0, 0, 0);
+  background: rgb(10, 223, 223);
+  border-style: double;
+  border-color: rgb(255, 255, 255);
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+a
+{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  border-style: dashed;
+  border-color: rgb(4, 155, 182);
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+p{
+  color: rgb(251, 255, 0);
+  word-spacing: 10px;
+  font-variant: small-caps;
+  font-size: 25px;
+  font-family: Arial;
+}
+
+.informacoes{
+    color: rgb(251, 255, 0);
+    font-size: 18px;
+}
